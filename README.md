@@ -1,112 +1,99 @@
-# Hi, I'm Ashok Mamnani 👋
+<div align="center">
 
-### Python Backend Engineer (8+ years) | Django · FastAPI · AWS | Building AI-powered products and data pipelines
+# Ashok Mamnani
 
-📍 Ahmedabad, Gujarat, India  
-📧 [ashok.mamnani01@gmail.com](mailto:ashok.mamnani01@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/ashok-mamnani/) · 🐙 [GitHub](https://github.com/ashok-mamnani-01)
+### Python Backend Engineer · 8+ Years of Experience
 
----
+**Django | FastAPI | Python | AWS | AI-powered Products & Data Pipelines**
 
-## About Me
+Ahmedabad, India · Open to Senior Backend Engineering Opportunities
 
-Python backend engineer with **8+ years of experience** building production backends, data pipelines, and AI-powered features with Django, FastAPI, and AWS.
+[LinkedIn](https://www.linkedin.com/in/ashok-mamnani/) · [Email](mailto:ashok.mamnani01@gmail.com)
 
-- **WorkSphere AI:** Building AI features for an HR platform, including an assistant that responds according to each user's role and permissions, creates leave requests from plain-language messages, and helps HR find candidates across job portals.
-- **Mindgram AI:** Running biopharma research data pipelines with daily scraping, automated and manual quality checks, and an S3 bronze/silver/gold pipeline that respects API limits and supports historical backfills.
-- **Backend platforms:** Developed a multi-tenant FastAPI backend with workspace-level data isolation and enterprise SSO.
-- **Search systems:** Built Shopify search using Elasticsearch and MongoDB Atlas Search, achieving **25% faster queries**.
-
-I'm looking for **senior backend engineering roles where AI is part of the product**, with a preference for remote opportunities.
-
-## Tech Stack
-
-**Languages & Backend**  
-Python · Django · Django REST Framework · FastAPI · Flask
-
-**Databases, Caching & Search**  
-PostgreSQL · Redis · MongoDB · Elasticsearch · MongoDB Atlas Search
-
-**Cloud & DevOps**  
-AWS · Amazon S3 · AWS Lambda · AWS ECS · Docker · GitHub Actions
-
-**Additional Technologies**  
-React · Redux · Java · Pytest · REST APIs · Web Scraping · Generative AI · OpenClaw
+</div>
 
 ---
 
-## Selected Projects
+## Professional Summary
 
-### WorkSphere AI — HR Lifecycle & AI Platform
-- Built an end-to-end HR platform covering recruitment, onboarding, asset allocation, leave management, and employee self-service.
-- Implemented role-based access control (RBAC) workflows for HR, IT Admins, Project Managers, and Employees.
-- Building AI-powered assistance for role-aware responses, natural-language leave requests, and candidate discovery across job portals.
+Backend engineer with 8+ years of experience designing, building, and improving production software. I specialize in Python-based backend systems, REST APIs, data pipelines, search, and cloud-native applications.
 
-### Mindgram AI — Biopharma Research Data Pipelines
-- Built data scraping and ingestion pipelines supporting AI-driven research insights.
-- Run daily scraping with automated and manual quality checks.
-- Maintain an S3 bronze/silver/gold data pipeline, handling API limits and historical backfills.
+Currently working on AI-enabled product capabilities and research data pipelines. I value maintainable architecture, reliable systems, measurable performance improvements, and practical engineering solutions.
 
-### Rack-Track — Data Center Infrastructure
-- Developed a multi-tenant FastAPI backend managing data-center infrastructure across multiple sites.
-- Implemented workspace-level data isolation using custom middleware.
+## Core Technologies
 
-### Simp Search Filter — Shopify Search
-- Developed a FastAPI-based search engine for Shopify merchants.
-- Implemented Elasticsearch and MongoDB Atlas Search indexing.
-- Improved search performance for large product catalogs by **25%**.
+| Area | Technologies |
+|---|---|
+| **Languages** | Python, Java |
+| **Backend** | Django, Django REST Framework, FastAPI, Flask |
+| **Data & Search** | PostgreSQL, Redis, MongoDB, Elasticsearch, MongoDB Atlas Search |
+| **Cloud & DevOps** | AWS, S3, Lambda, ECS, Docker, GitHub Actions |
+| **Testing & Frontend** | Pytest, React, Redux |
+| **Specialties** | REST API Design, Microservices, Multi-tenancy, RBAC, Web Scraping, Data Pipelines, Generative AI |
 
-### Simprosys Reporting Tool — Shopify & Google Ads Analytics
-- Integrated Shopify API and Google Ads API for analytics reporting.
-- Generated business intelligence insights supporting marketing decisions.
-- Built automated data pipelines for reliable reporting.
+## Selected Product & Engineering Work
 
----
+### WorkSphere AI · HR Platform
+- Contributed to an end-to-end HR platform spanning recruitment, onboarding, asset allocation, leave management, and employee self-service.
+- Implemented role-based workflows for HR, IT Admins, Project Managers, and Employees.
+- Working on AI-assisted, permission-aware experiences, natural-language leave requests, and candidate discovery.
+
+### Mindgram AI · Biopharma Research
+- Built scraping and ingestion workflows supporting AI-driven research insights.
+- Established daily collection with automated and manual quality checks.
+- Developed an Amazon S3 bronze/silver/gold data pipeline, including API-limit handling and historical backfills.
+
+### Rack-Track · Data Center Infrastructure
+- Developed a multi-tenant FastAPI backend for infrastructure management across multiple sites.
+- Implemented workspace-level data isolation through custom middleware.
+
+### Shopify Search & Reporting
+- Developed a FastAPI search service using Elasticsearch and MongoDB Atlas Search.
+- Integrated Shopify and Google Ads APIs for analytics and reporting.
+- Improved search query performance by 25%.
 
 ## Engineering Impact
 
-| Improvement | Result |
-|---|---:|
-| Reduced PostgreSQL database load with query optimization and Redis caching | **40%** |
-| Improved backend response time | **25%** |
-| Improved Shopify product search queries | **25% faster** |
-| Reduced AWS ECS deployment time with GitHub Actions | **20%** |
-| Pytest code coverage | **85%** |
-| MCA students taught Python as visiting faculty | **50+** |
+<div align="center">
 
----
+| **40%** | **25%** | **20%** | **85%** |
+|:---:|:---:|:---:|:---:|
+| Lower database load | Faster response time | Faster deployments | Pytest coverage |
+
+</div>
+
+- Reduced PostgreSQL database load through query optimization and Redis caching.
+- Improved backend response times through API and application-level optimization.
+- Reduced AWS ECS deployment time by automating delivery with GitHub Actions.
+- Taught Python to 50+ MCA students as visiting faculty.
 
 ## Professional Experience
 
-**Software Engineer — Ascent InfoSolutions**  
-*July 2022 – Present · Ahmedabad, India*
-- Designed and developed scalable RESTful APIs using Django and FastAPI, improving system response time by 25%.
-- Optimized PostgreSQL queries and implemented Redis caching, reducing database load by 40% during peak traffic.
-- Led migration of a legacy monolith into Docker-based microservices.
-- Integrated AWS S3 and Lambda for serverless media processing.
-- Introduced Pytest-based testing, achieving 85% code coverage.
-- Collaborated with clients and cross-functional teams; mentored developers and promoted clean architecture.
+**Software Engineer · Ascent InfoSolutions**  
+*July 2022 – Present*
+- Design and develop backend services and REST APIs using Django and FastAPI.
+- Optimize PostgreSQL queries and Redis caching for improved performance.
+- Build Docker-based microservices and integrate AWS S3 and Lambda workflows.
+- Improve engineering quality through automated testing with Pytest.
 
-**Python Developer — Simprosys InfoMedia**  
-*August 2020 – June 2022 · Ahmedabad, India*
-- Designed scalable REST APIs and automated AWS ECS deployments with GitHub Actions, reducing deployment time by 20%.
-- Enhanced Shopify merchant tools with advanced search and filtering.
-- Optimized large product datasets, achieving 25% faster search response times.
-- Integrated Shopify and Google Ads APIs for analytics reporting.
+**Python Developer · Simprosys InfoMedia**  
+*August 2020 – June 2022*
+- Developed REST APIs and backend integrations.
+- Automated AWS ECS deployments using GitHub Actions.
+- Built Shopify search and filtering capabilities with Elasticsearch and MongoDB Atlas Search.
+- Integrated Shopify and Google Ads APIs for reporting.
 
-**Full Stack Developer — Greycell Labs Inc**  
-*July 2019 – July 2020 · Ahmedabad, India*
-- Developed React and Redux features for the BidClips platform.
-- Maintained a legacy Java backend and contributed Flask-based microservices.
-- Built MongoDB aggregation pipelines and supported the move toward microservices.
+**Full Stack Developer · Greycell Labs Inc**  
+*July 2019 – July 2020*
+- Built frontend features using React and Redux for the BidClips platform.
+- Contributed Flask microservices and maintained a legacy Java backend.
+- Developed MongoDB aggregation pipelines for reporting.
 
-**Software Engineer — Techmicra IT Solutions**  
-*June 2018 – July 2019 · Ahmedabad, India*
-- Built Django REST Framework APIs for Android applications.
-- Designed API endpoints, authentication systems, and validation logic.
-- Collaborated with mobile developers and mentored students and interns.
-
----
+**Software Engineer · Techmicra IT Solutions**  
+*June 2018 – July 2019*
+- Developed Django REST Framework APIs for Android applications.
+- Implemented API endpoints, authentication, and validation.
+- Worked closely with mobile developers on backend integrations.
 
 ## Education
 
@@ -123,18 +110,12 @@ React · Redux · Java · Pytest · REST APIs · Web Scraping · Generative AI �
 
 ---
 
-## Professional Involvement
+<div align="center">
 
-**Visiting Faculty — Python Programming (MCA Program)**  
-*R.B. Institute of Computer Science, Gujarat Technological University · January 2019 – December 2021*
+### Let's Connect
 
-- Delivered Python programming lectures and hands-on coding workshops for 50+ postgraduate students.
-- Mentored students in practical programming, debugging, and software engineering practices.
+**Building reliable backend systems and useful AI-powered products.**
 
----
+[LinkedIn](https://www.linkedin.com/in/ashok-mamnani/) · [Email](mailto:ashok.mamnani01@gmail.com)
 
-## Let's Connect
-
-I'm always glad to connect with engineers, builders, and teams working on backend systems, data platforms, and practical AI products.
-
-📧 [Email](mailto:ashok.mamnani01@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ashok-mamnani/) · 🐙 [GitHub](https://github.com/ashok-mamnani-01)
+</div>
