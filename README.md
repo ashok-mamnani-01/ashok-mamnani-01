@@ -1,193 +1,140 @@
 # Hi, I'm Ashok Mamnani 👋
 
-🚀 **Python Backend Engineer | Microservices Architect | Cloud Systems Developer**
+### Python Backend Engineer (8+ years) | Django · FastAPI · AWS | Building AI-powered products and data pipelines
 
 📍 Ahmedabad, Gujarat, India  
-📧 ashok.mamnani01@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/ashok-mamnani)  
-🐙 [GitHub](https://github.com/ashok-mamnani-01)
+📧 [ashok.mamnani01@gmail.com](mailto:ashok.mamnani01@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/ashok-mamnani/) · 🐙 [GitHub](https://github.com/ashok-mamnani-01)
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-I am a **Python Backend Engineer with 7+ years of experience** building scalable backend systems, microservices architectures, and high-performance REST APIs using **Django, FastAPI, and Flask**.
+Python backend engineer with **8+ years of experience** building production backends, data pipelines, and AI-powered features with Django, FastAPI, and AWS.
 
-I specialize in:
+- **WorkSphere AI:** Building AI features for an HR platform, including an assistant that responds according to each user's role and permissions, creates leave requests from plain-language messages, and helps HR find candidates across job portals.
+- **Mindgram AI:** Running biopharma research data pipelines with daily scraping, automated and manual quality checks, and an S3 bronze/silver/gold pipeline that respects API limits and supports historical backfills.
+- **Backend platforms:** Developed a multi-tenant FastAPI backend with workspace-level data isolation and enterprise SSO.
+- **Search systems:** Built Shopify search using Elasticsearch and MongoDB Atlas Search, achieving **25% faster queries**.
 
-- Designing **distributed backend architectures**
-- Building **multi-tenant platforms**
-- Optimizing **database and search performance**
-- Deploying scalable systems on **AWS and containerized environments**
+I'm looking for **senior backend engineering roles where AI is part of the product**, with a preference for remote opportunities.
 
-I have successfully **improved system performance by up to 40%**, reduced infrastructure costs, and delivered reliable cloud-native solutions across multiple production systems.
+## Tech Stack
 
----
+**Languages & Backend**  
+Python · Django · Django REST Framework · FastAPI · Flask
 
-# 🛠 Tech Stack
+**Databases, Caching & Search**  
+PostgreSQL · Redis · MongoDB · Elasticsearch · MongoDB Atlas Search
 
-### Languages & Frameworks
-- Python
-- Django
-- FastAPI
-- Flask
-- React
-- NumPy
-- Pandas
+**Cloud & DevOps**  
+AWS · Amazon S3 · AWS Lambda · AWS ECS · Docker · GitHub Actions
 
-### Databases & Search
-- PostgreSQL
-- MySQL
-- MongoDB
-- Elasticsearch
-- MongoDB Atlas Search
-
-### Cloud & DevOps
-- AWS (EC2, ECS, Lambda, S3, RDS, CloudFront)
-- GCP (BigQuery, Cloud Run)
-- Docker
-- Docker Compose
-
-### CI/CD & Tools
-- GitHub Actions
-- GitLab CI/CD
-- Bitbucket CI/CD
-- ELK Stack
-- Pytest
-- REST APIs
-- Agile Development
+**Additional Technologies**  
+React · Redux · Java · Pytest · REST APIs · Web Scraping · Generative AI · OpenClaw
 
 ---
 
-# 💼 Professional Experience
+## Selected Projects
 
-## Software Engineer  
-**Ascent InfoSolutions — Ahmedabad**  
-📅 July 2022 – Present
+### WorkSphere AI — HR Lifecycle & AI Platform
+- Built an end-to-end HR platform covering recruitment, onboarding, asset allocation, leave management, and employee self-service.
+- Implemented role-based access control (RBAC) workflows for HR, IT Admins, Project Managers, and Employees.
+- Building AI-powered assistance for role-aware responses, natural-language leave requests, and candidate discovery across job portals.
 
-- Designed scalable **REST APIs using Django and FastAPI**
-- Improved system response time by **25%**
-- Optimized PostgreSQL queries and implemented **Redis caching**, reducing DB load by **40%**
-- Migrated monolithic systems to **Docker-based microservices architecture**
-- Integrated **AWS S3 and Lambda** for serverless processing
-- Implemented **Pytest testing framework achieving 85% coverage**
-- Mentored developers and enforced clean architecture practices
+### Mindgram AI — Biopharma Research Data Pipelines
+- Built data scraping and ingestion pipelines supporting AI-driven research insights.
+- Run daily scraping with automated and manual quality checks.
+- Maintain an S3 bronze/silver/gold data pipeline, handling API limits and historical backfills.
 
----
+### Rack-Track — Data Center Infrastructure
+- Developed a multi-tenant FastAPI backend managing data-center infrastructure across multiple sites.
+- Implemented workspace-level data isolation using custom middleware.
 
-## Python Developer  
-**Simprosys InfoMedia Pvt. Ltd. — Ahmedabad**  
-📅 Aug 2020 – June 2022
+### Simp Search Filter — Shopify Search
+- Developed a FastAPI-based search engine for Shopify merchants.
+- Implemented Elasticsearch and MongoDB Atlas Search indexing.
+- Improved search performance for large product catalogs by **25%**.
 
-- Built scalable REST APIs for backend services
-- Automated **AWS ECS deployments with GitHub Actions**
-- Improved deployment time by **20%**
-- Optimized large product search datasets achieving **25% faster queries**
-- Built advanced search systems for **Shopify merchant platforms**
-
----
-
-## Full Stack Developer  
-**Greycell Labs Pvt. Ltd. — Ahmedabad**  
-📅 July 2019 – July 2020
-
-- Built frontend systems using **React + Redux**
-- Developed **Flask-based microservices**
-- Designed MongoDB aggregation pipelines for analytics
-- Contributed to migration from monolithic to microservices architecture
+### Simprosys Reporting Tool — Shopify & Google Ads Analytics
+- Integrated Shopify API and Google Ads API for analytics reporting.
+- Generated business intelligence insights supporting marketing decisions.
+- Built automated data pipelines for reliable reporting.
 
 ---
 
-## Software Engineer  
-**Techmira IT Solutions — Ahmedabad**  
-📅 June 2018 – July 2019
+## Engineering Impact
 
-- Built backend APIs using **Django REST Framework**
-- Developed authentication systems and validation layers
-- Worked closely with mobile developers on Android integrations
-
----
-
-# 🚀 Key Projects
-
-## WorkSphere AI — HR Lifecycle Management Platform
-- Full HR platform covering recruitment, onboarding, assets, leave management
-- Role-based workflows for HR, IT Admins, Managers, Employees
-- Dockerized services deployed on DigitalOcean
-- Optimized PostgreSQL reporting performance
+| Improvement | Result |
+|---|---:|
+| Reduced PostgreSQL database load with query optimization and Redis caching | **40%** |
+| Improved backend response time | **25%** |
+| Improved Shopify product search queries | **25% faster** |
+| Reduced AWS ECS deployment time with GitHub Actions | **20%** |
+| Pytest code coverage | **85%** |
+| MCA students taught Python as visiting faculty | **50+** |
 
 ---
 
-## Rack-Track — Data Center Infrastructure Management API
-- Multi-tenant backend built with **FastAPI**
-- Workspace-level data isolation middleware
-- Enterprise SSO authentication integration
-- Schema version control using **Alembic migrations**
+## Professional Experience
+
+**Software Engineer — Ascent InfoSolutions**  
+*July 2022 – Present · Ahmedabad, India*
+- Designed and developed scalable RESTful APIs using Django and FastAPI, improving system response time by 25%.
+- Optimized PostgreSQL queries and implemented Redis caching, reducing database load by 40% during peak traffic.
+- Led migration of a legacy monolith into Docker-based microservices.
+- Integrated AWS S3 and Lambda for serverless media processing.
+- Introduced Pytest-based testing, achieving 85% code coverage.
+- Collaborated with clients and cross-functional teams; mentored developers and promoted clean architecture.
+
+**Python Developer — Simprosys InfoMedia**  
+*August 2020 – June 2022 · Ahmedabad, India*
+- Designed scalable REST APIs and automated AWS ECS deployments with GitHub Actions, reducing deployment time by 20%.
+- Enhanced Shopify merchant tools with advanced search and filtering.
+- Optimized large product datasets, achieving 25% faster search response times.
+- Integrated Shopify and Google Ads APIs for analytics reporting.
+
+**Full Stack Developer — Greycell Labs Inc**  
+*July 2019 – July 2020 · Ahmedabad, India*
+- Developed React and Redux features for the BidClips platform.
+- Maintained a legacy Java backend and contributed Flask-based microservices.
+- Built MongoDB aggregation pipelines and supported the move toward microservices.
+
+**Software Engineer — Techmicra IT Solutions**  
+*June 2018 – July 2019 · Ahmedabad, India*
+- Built Django REST Framework APIs for Android applications.
+- Designed API endpoints, authentication systems, and validation logic.
+- Collaborated with mobile developers and mentored students and interns.
 
 ---
 
-## Mindgram — AI Intelligence Platform
-- Built data scraping pipelines for AI-driven research
-- Processed structured and unstructured datasets
-- Enabled analytics workflows for biopharma intelligence
+## Education
+
+- **Master of Computer Applications (MCA), Computer Science** — R.B. Institute of Management Studies (SFI), Ahmedabad · 2016–2018
+- **Bachelor of Computer Applications (BCA), Computer Science** — Dr. Babasaheb Ambedkar Open University, Ahmedabad · 2012–2015
+
+## Certifications
+
+- Getting Started with AWS Machine Learning
+- OpenClaw: Run Powerful & Autonomous AI Agents Securely
+- Getting Started with AI using IBM Watson
+- Introduction to Artificial Intelligence (AI)
+- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
 ---
 
-## Simp Search & Filter — Shopify Search Optimization
-- Built FastAPI search engine for Shopify merchants
-- Implemented **Elasticsearch and MongoDB Atlas Search**
-- Improved search accuracy and speed for large product catalogs
+## Professional Involvement
+
+**Visiting Faculty — Python Programming (MCA Program)**  
+*R.B. Institute of Computer Science, Gujarat Technological University · January 2019 – December 2021*
+
+- Delivered Python programming lectures and hands-on coding workshops for 50+ postgraduate students.
+- Mentored students in practical programming, debugging, and software engineering practices.
 
 ---
 
-# 🎓 Education
+## Let's Connect
 
-**Master of Computer Application (MCA)**  
-Gujarat Technological University  
-2016 – 2018  
-CGPI: **7.64 / 10**
+I'm always glad to connect with engineers, builders, and teams working on backend systems, data platforms, and practical AI products.
 
-**Bachelor of Computer Application (BCA)**  
-Dr. Babasaheb Ambedkar Open University  
-2012 – 2015  
-Score: **76.28%**
-
----
-
-# 📜 Certifications
-
-- AWS — Getting Started with AWS & Machine Learning
-- Atlassian — Version Control with Git
-- IBM — Introduction to Artificial Intelligence
-- IBM — Getting Started with AI using Watson
-
----
-
-# 👨‍🏫 Professional Involvement
-
-**Visiting Faculty — Python Programming**  
-R.B Institute of Computer Science (GTU)  
-2019 – 2021
-
-- Delivered Python lectures for MCA students
-- Mentored **50+ students** in software development and debugging practices
-
----
-
-# 📊 Professional Highlights
-
-- 🚀 Reduced backend latency by **40%**
-- ☁️ Optimized cloud infrastructure costs by **25%**
-- ⚡ Improved deployment efficiency by **20%**
-- 🔎 Increased search performance by **25%**
-- 👨‍🏫 Mentored **50+ postgraduate students**
-
----
-
-# 📫 Let's Connect
-
-📧 Email: **ashok.mamnani01@gmail.com**  
-💼 LinkedIn: https://linkedin.com/in/ashok-mamnani  
-🐙 GitHub: https://github.com/ashok-mamnani-01  
-
-💡 *Always open to interesting engineering problems and collaboration opportunities.*
+📧 [Email](mailto:ashok.mamnani01@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ashok-mamnani/) · 🐙 [GitHub](https://github.com/ashok-mamnani-01)
