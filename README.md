@@ -67,6 +67,15 @@ Currently working on AI-enabled product capabilities and research data pipelines
 - Reduced AWS ECS deployment time by automating delivery with GitHub Actions.
 - Taught Python to 50+ MCA students as visiting faculty.
 
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashok-mamnani-01&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Ashok's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok-mamnani-01&layout=compact&hide_border=true" alt="Most-used programming languages" />
+
+</div>
+
 ## Professional Experience
 
 **Software Engineer · Ascent InfoSolutions**  
