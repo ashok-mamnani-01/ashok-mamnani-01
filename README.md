@@ -20,7 +20,7 @@ I specialize in:
 - Optimizing **database and search performance**
 - Deploying scalable systems on **AWS and containerized environments**
 
-I have successfully **improved system performance by up to 40%**, reduced infrastructure costs, and delivered reliable cloud-native solutions across multiple production systems. :contentReference[oaicite:1]{index=1}
+I have successfully **improved system performance by up to 40%**, reduced infrastructure costs, and delivered reliable cloud-native solutions across multiple production systems.
 
 ---
 
